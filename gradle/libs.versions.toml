@@ -1,5 +1,5 @@
 [versions]
-threaten = "2.2.2"
+threaten = "3.4.3"
 breed = "2.0.3"
 
 [libraries]
